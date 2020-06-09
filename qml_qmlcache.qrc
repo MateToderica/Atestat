@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../Maybe/main.qml</file>
+        <file alias="Slot.qml">../Maybe/Slot.qml</file>
+        <file alias="boardcreator.js">../Maybe/boardcreator.js</file>
+        <file alias="resources/pieces/b_bishop.svg">../Maybe/resources/pieces/b_bishop.svg</file>
+        <file alias="resources/pieces/b_default.svg">../Maybe/resources/pieces/b_default.svg</file>
+        <file alias="resources/pieces/b_king.svg">../Maybe/resources/pieces/b_king.svg</file>
+        <file alias="resources/pieces/b_knight.svg">../Maybe/resources/pieces/b_knight.svg</file>
+        <file alias="resources/pieces/b_pawn.svg">../Maybe/resources/pieces/b_pawn.svg</file>
+        <file alias="resources/pieces/b_queen.svg">../Maybe/resources/pieces/b_queen.svg</file>
+        <file alias="resources/pieces/b_rook.svg">../Maybe/resources/pieces/b_rook.svg</file>
+        <file alias="resources/pieces/w_rook.svg">../Maybe/resources/pieces/w_rook.svg</file>
+        <file alias="resources/pieces/w_bishop.svg">../Maybe/resources/pieces/w_bishop.svg</file>
+        <file alias="resources/pieces/w_default.svg">../Maybe/resources/pieces/w_default.svg</file>
+        <file alias="resources/pieces/w_king.svg">../Maybe/resources/pieces/w_king.svg</file>
+        <file alias="resources/pieces/w_knight.svg">../Maybe/resources/pieces/w_knight.svg</file>
+        <file alias="resources/pieces/w_pawn.svg">../Maybe/resources/pieces/w_pawn.svg</file>
+        <file alias="resources/pieces/w_queen.svg">../Maybe/resources/pieces/w_queen.svg</file>
+        <file alias="resources/Chess_Bdt45.svg">../Maybe/resources/Chess_Bdt45.svg</file>
+        <file alias="resources/Chess_Blt45.svg">../Maybe/resources/Chess_Blt45.svg</file>
+        <file alias="resources/Chess_Cdt45.svg">../Maybe/resources/Chess_Cdt45.svg</file>
+        <file alias="resources/Chess_Cet45.svg">../Maybe/resources/Chess_Cet45.svg</file>
+        <file alias="resources/Chess_edt45.svg">../Maybe/resources/Chess_edt45.svg</file>
+        <file alias="resources/Chess_elt45.svg">../Maybe/resources/Chess_elt45.svg</file>
+        <file alias="resources/Chess_fdt45.svg">../Maybe/resources/Chess_fdt45.svg</file>
+        <file alias="resources/Chess_flt45.svg">../Maybe/resources/Chess_flt45.svg</file>
+        <file alias="resources/Chess_gdt45.svg">../Maybe/resources/Chess_gdt45.svg</file>
+        <file alias="resources/Chess_Gdt45.svg">../Maybe/resources/Chess_Gdt45.svg</file>
+        <file alias="resources/Chess_glt45.svg">../Maybe/resources/Chess_glt45.svg</file>
+        <file alias="resources/Chess_Glt45.svg">../Maybe/resources/Chess_Glt45.svg</file>
+        <file alias="resources/Chess_Mdt45.svg">../Maybe/resources/Chess_Mdt45.svg</file>
+        <file alias="resources/Chess_Mlt45.svg">../Maybe/resources/Chess_Mlt45.svg</file>
+        <file alias="resources/Chess_Nlt45.svg">../Maybe/resources/Chess_Nlt45.svg</file>
+        <file alias="resources/Chess_sdt45 (1).svg">../Maybe/resources/Chess_sdt45 (1).svg</file>
+        <file alias="resources/Chess_sdt45.svg">../Maybe/resources/Chess_sdt45.svg</file>
+        <file alias="resources/Chess_Udt45.svg">../Maybe/resources/Chess_Udt45.svg</file>
+        <file alias="resources/Chess_Ult45.svg">../Maybe/resources/Chess_Ult45.svg</file>
+        <file alias="resources/Chess_Zdt45.svg">../Maybe/resources/Chess_Zdt45.svg</file>
+        <file alias="resources/Chess_Zlt45.svg">../Maybe/resources/Chess_Zlt45.svg</file>
+        <file alias="Piece.qml">../Maybe/Piece.qml</file>
+    </qresource>
+</RCC>
